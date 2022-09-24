@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Sakpal
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJs
+- 👀 I’m interested in Python
+- 🌱 Have knowledge of web development as well.
 - 📫 How to reach me sakpalabhishek05@gmail.com
 
 <!---
